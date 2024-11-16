@@ -1,0 +1,26 @@
+
+1. Selecione uma palavra
+	a. Dict com chave sendo a palavra e o valor o tamnho dela (_ _ _)
+
+2. Sorteio de uma palavra
+	a. Sortei-e uma palavra (número aleatório dentro do escopo do dict)
+	b. Retorna só a chave
+
+3. Mostre a quantidade de tentativas
+
+4. Mostre o tamanho da palavra
+	a. Use 'len' para pegar o tamanho da palavra
+	b. Mostre o valor do dict dessa chave
+
+5. Pede para o usuário digitar uma letra
+	a. Crie um loop com limite 6
+	b. input() para digitar uma letra
+	C. Verifica se acertou
+		I. sim - add no campo palavra
+			a. Verifica se a palavra formou
+				sim - break
+				não - continue
+		II. não 
+	D.Reestarta a tela com as novas informações
+	
+ 
